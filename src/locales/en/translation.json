@@ -1,0 +1,26 @@
+{
+  "login": {
+    "title": "Sign In",
+    "subTitleLine1": "Empowering E-Commerce with Insights",
+    "subTitleLine2": "That Drive Success.",
+    "fields": {
+      "email": "EMAIL",
+      "password": "PASSWORD"
+    },
+    "otherSignInOptions": {
+      "google": "Sign in With Google",
+      "twitter": "Sign in With Twitter"
+    },
+    "buttons": {
+      "signIn": "Sign In",
+      "signUp": "Sign Up"
+    },
+    "alreadyHaveAccount": "Already have an Account?",
+    "errors": {
+      "invalidEmail": "Please enter a valid email address",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 6 characters long"
+    }
+  }
+}
